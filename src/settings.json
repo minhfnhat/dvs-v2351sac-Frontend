@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join us on a delectable journey through the finest flavors and dishes.",
+        "title": "Culinary Adventures Await with Pot"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Culinary Adventures Await with Pot",
+  "subtitle": "Join us on a delectable journey through the finest flavors and dishes."
+}
